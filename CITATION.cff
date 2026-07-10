@@ -1,0 +1,36 @@
+cff-version: 1.2.0
+
+title: "Reliability-Aware Adaptive Multimodal Fusion for Robust Continuous Authentication Under Non-Stationary Sensing"
+
+message: >
+  If you use this repository in your research, please cite the accompanying manuscript.
+
+type: software
+
+authors:
+
+  - family-names: Rajkumar
+    given-names: S. C.
+    email: rajkumar@autmdu.in
+
+repository-code: "https://github.com/Rajkumar-0806/multimodal-driver-authentication"
+
+abstract: >
+  Official implementation of the Reliability-Aware Adaptive Multimodal Fusion framework
+  for continuous driver authentication under non-stationary sensing environments.
+
+keywords:
+  - Biometrics
+  - Multimodal Authentication
+  - Driver Authentication
+  - Reliability-Aware Fusion
+  - Continuous Authentication
+  - Adaptive Fusion
+  - Deep Learning
+  - Trust-Aware Learning
+
+license: MIT
+
+version: "1.0.0"
+
+date-released: 2026-07-10
