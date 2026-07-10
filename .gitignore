@@ -1,0 +1,49 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+venv/
+env/
+.venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Model checkpoints
+checkpoints/*.pth
+checkpoints/*.pt
+checkpoints/*.ckpt
+
+# Dataset archives
+*.zip
+*.tar
+*.gz
+
+# Temporary files
+*.tmp
+*.bak
+
+# PyTorch
+runs/
+wandb/
+
+# Build
+build/
+dist/
+*.egg-info/
+
+# Cache
+.cache/
